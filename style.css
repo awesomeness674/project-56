@@ -15,7 +15,7 @@ img {
 }
 
 .section-style {
-   magin-left: 25px;
+   margin-left: 25px;
   margin-right:25px;
   background-color: white;
 }
@@ -25,5 +25,5 @@ div {
 }
 
 h1 {
-  color: white;
+  color: teal;
 }
